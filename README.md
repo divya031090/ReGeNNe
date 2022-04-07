@@ -1,5 +1,5 @@
 # RGPath
-we propose a framework combining genetic data into pathway structure and using an ensemble of Convolutional Neural Networks (CNN) along with a Canonical Correlation Regularizer layer for comprehensive prediction of disease risk. 
+The proposed framework aims at combining genetic data into pathway structure and using an ensemble of Convolutional Neural Networks (CNN) along with a Canonical Correlation Regularizer layer for comprehensive prediction of disease risk. 
 
 Datasets used: can be downloaded from TCGA repository https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga. 
 
