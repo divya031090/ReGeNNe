@@ -9,9 +9,15 @@ The files for Canonical Correlation Analysis based fusion are: CCA_gene.py and g
 Prerequisites
 
 Python 2.7
+
 CUDA
+
 cuDNN
+
 Conda
+
 TensorFlow
+
 NumPy pandas
+
 Keras
