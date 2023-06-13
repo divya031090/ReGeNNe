@@ -32,7 +32,11 @@ Canonical Correlation Analysis based fusion is provided in CCA_gene.py and gene_
 
 The Convolutional Neural Network framework is presented in startified_CNN.py along with train_test.py for splitting the dataset. In this step, firstly, the individual genes are mapped to their respective pathways and given as input to CNN models. 
 
+Feature importance through shapley values or integrated gradient can be computed using the file importance.py
+
 Pathway mapping.R can be used for pathway mapping to genes and common genes between pathways.
+
+
 
 
 **Prerequisites**
